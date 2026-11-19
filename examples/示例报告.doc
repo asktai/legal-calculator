@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="UTF-8">
+<title>XX 科技有限公司劳动争议与合同违约专项测算报告</title>
+<!--[if gte mso 9]><xml><w:WordDocument><w:View>Print</w:View><w:Zoom>100</w:Zoom></w:WordDocument></xml><![endif]-->
+<style>
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;
+    line-height:1.7;color:#101828;max-width:900px;margin:0 auto;padding:36px 28px;background:#fff;}
+  h1{font-size:25px;margin:0 0 10px;letter-spacing:-.4px;}
+  h2{font-size:18px;margin:30px 0 12px;padding-bottom:8px;border-bottom:2px solid #5b3df5;color:#3730a3;}
+  h3{font-size:14px;margin:20px 0 8px;color:#475467;}
+  .meta{color:#667085;font-size:13px;margin-bottom:24px;}
+  .summary{background:#f9fafb;border-left:3px solid #5b3df5;padding:12px 16px;margin:16px 0;font-size:14px;}
+  blockquote{margin:8px 0;padding:8px 14px;background:#f5f3ff;border-left:3px solid #8b5cf6;
+    color:#5b21b6;font-size:13px;}
+  .hero{background:linear-gradient(135deg,#f5f3ff,#eef2ff);border:1px solid #ddd6fe;border-radius:10px;
+    padding:18px 20px;margin:14px 0;}
+  .hero-label{font-size:13px;color:#5b21b6;font-weight:600;margin-bottom:6px;}
+  .hero-value{font-size:26px;font-weight:700;color:#3730a3;letter-spacing:-.5px;}
+  .hero-sub{font-size:12px;color:#6d28d9;margin-top:6px;}
+  table{width:100%;border-collapse:collapse;margin:10px 0 18px;font-size:13px;}
+  th{background:#f9fafb;text-align:left;padding:8px 10px;border:1px solid #e4e7ec;font-weight:600;color:#475467;}
+  td{padding:8px 10px;border:1px solid #e4e7ec;vertical-align:top;}
+  tr.emph td{color:#5b3df5;font-weight:600;}
+  .basis{background:#f9fafb;border-left:3px solid #5b3df5;padding:10px 14px;margin-bottom:8px;font-size:12.5px;color:#475467;}
+  .basis b{color:#5b3df5;}
+  ul{padding-left:20px;font-size:13px;color:#475467;}
+  li{margin-bottom:6px;}
+  table.meta-table{width:auto;min-width:340px;margin:12px 0 16px;}
+  table.meta-table td{padding:5px 12px;font-size:12.5px;}
+  table.meta-table td.mk{width:88px;color:#667085;background:#f9fafb;font-weight:600;}
+  .footnote{margin-top:34px;padding-top:14px;border-top:1px solid #e4e7ec;font-size:11.5px;color:#98a2b3;}
+  @media print{body{padding:0;max-width:none;}h2{page-break-after:avoid;}table{page-break-inside:avoid;}}
+
+@page{size:A4;margin:2cm;}
+</style>
+</head>
+<body>
+<h1>XX 科技有限公司劳动争议与合同违约专项测算报告</h1>
+<div class="meta">项目 / 客户：XX 科技有限公司 — 2026 年 Q3 争议处置　|　编制人：法务部　|　日期：2026-10-20</div>
+<div class="summary">本报告针对两起劳动争议、一起买卖合同违约事宜，以及拟启动诉讼的保全、公告、评估等费用进行量化测算，为谈判方案与诉讼决策提供依据。一年期 LPR 按 3.0% 取值，社平工资、工伤补助金月数、公告与评估报价等地区及机构参数需按最新标准复核。</div>
+<h2>测算概览</h2>
+<table><thead><tr><th>序号</th><th>项目名称</th><th>我方</th><th>对方</th><th>时间</th><th>项目人</th><th>代理人</th><th>结果项</th><th>结果数值</th></tr></thead><tbody><tr><td>1</td><td>张某经济补偿金（协商解除）</td><td>XX 科技有限公司（用人单位 / 被申请人）</td><td>张某（劳动者 / 申请人）</td><td>2026-01-31</td><td>张三（法务经理）</td><td>李四 律师</td><td>经济补偿金（N）</td><td><b>126,000.00 元</b></td></tr><tr><td>2</td><td>李某违法解除赔偿金（2N）</td><td>XX 科技有限公司（用人单位 / 被申请人）</td><td>李某（劳动者 / 申请人）</td><td>2026-01-31</td><td>张三（法务经理）</td><td>李四 律师</td><td>违法解除赔偿金（2N）</td><td><b>150,000.00 元</b></td></tr><tr><td>3</td><td>王某加班费追索（近 12 个月）</td><td></td><td></td><td></td><td></td><td></td><td>加班费总额</td><td><b>127,994.40 元</b></td></tr><tr><td>4</td><td>A 客户逾期付款违约金</td><td></td><td></td><td></td><td></td><td></td><td>违约金金额</td><td><b>900,000.00 元</b></td></tr><tr><td>5</td><td>A 客户财产保全费（法院收取）</td><td>XX 科技有限公司（申请人 / 原告）</td><td>A 客户（XX 贸易公司）（被申请人 / 被告）</td><td>2026-09-23</td><td>张三（法务经理）</td><td>李四 律师</td><td>保全申请费（法院）</td><td><b>5,000.00 元</b></td></tr><tr><td>6</td><td>A 客户财产保全担保费（保险保函）</td><td>XX 科技有限公司（申请人 / 原告）</td><td>A 客户（XX 贸易公司）（被申请人 / 被告）</td><td>2026-09-23</td><td>张三（法务经理）</td><td>李四 律师</td><td>保全保险费</td><td><b>2,400.00 元</b></td></tr><tr><td>7</td><td>A 客户公告送达公告费</td><td></td><td></td><td>2026-09-23</td><td>张三（法务经理）</td><td>李四 律师</td><td>公告费合计</td><td><b>300.00 元</b></td></tr><tr><td>8</td><td>A 客户抵债资产评估费</td><td>XX 科技有限公司（申请执行人）</td><td>A 客户（XX 贸易公司）（被执行人）</td><td>2026-09-23</td><td>张三（法务经理）</td><td>XX 资产评估有限公司</td><td>资产评估费</td><td><b>26,700.00 元</b></td></tr><tr><td>9</td><td>A 客户诉讼成本测算（含保全与其他费用）</td><td></td><td></td><td></td><td></td><td></td><td>诉讼前期总投入</td><td><b>245,200.00 元</b></td></tr><tr><td>10</td><td>年度采购合同印花税</td><td></td><td></td><td></td><td></td><td></td><td>印花税合计</td><td><b>30,000.00 元</b></td></tr></tbody></table>
+<h2>1. 张某经济补偿金（协商解除）</h2>
+<blockquote>按工作年限与月平均工资计算解除/终止劳动合同的经济补偿</blockquote>
+<table class="meta-table"><tbody><tr><td class="mk">时间</td><td>2026-01-31</td></tr><tr><td class="mk">我方</td><td>XX 科技有限公司（用人单位 / 被申请人）</td></tr><tr><td class="mk">对方</td><td>张某（劳动者 / 申请人）</td></tr><tr><td class="mk">项目人</td><td>张三（法务经理）</td></tr><tr><td class="mk">代理人</td><td>李四 律师</td></tr></tbody></table>
+<div class="hero">
+<div class="hero-label">经济补偿金（N）</div>
+<div class="hero-value">126,000.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">壹拾贰万陆仟元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>补偿月数</td><td>7 个月</td></tr><tr><td>计算基数月工资</td><td>18,000.00 元<br><span style="color:#98a2b3;font-size:11px">未封顶</span></td></tr><tr><td>是否年限封顶</td><td>否</td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>入职日期</td><td>2019-03-01</td></tr><tr><td>解除 / 终止日期</td><td>2026-01-31</td></tr><tr><td>离职前 12 个月平均工资</td><td>18000 元</td></tr><tr><td>当地上年度职工月平均工资</td><td>12000 元</td></tr><tr><td>解除 / 终止情形</td><td>协商一致解除（单位提出）</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>工作年限</td><td>2019-03-01 至 2026-01-31，共 82 个月（6 年 10 个月）</td></tr><tr class=""><td>折算补偿月数</td><td>6 年 + 余 10 个月（六个月以上按一年算）= 7 个月<br><span style="color:#98a2b3;font-size:11px">《劳动合同法》第47条</span></td></tr><tr class="emph"><td>经济补偿金</td><td>18,000.00 × 7 = 126,000.00 元</td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">月工资未超当地社平工资三倍，不适用封顶；建议以本金额为谈判起点。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《劳动合同法》 第四十七条</b><br>经济补偿按劳动者在本单位工作的年限，每满一年支付一个月工资的标准向劳动者支付。六个月以上不满一年的，按一年计算；不满六个月的，向劳动者支付半个月工资的经济补偿。劳动者月工资高于用人单位所在直辖市、设区的市级人民政府公布的本地区上年度职工月平均工资三倍的，向其支付经济补偿的标准按职工月平均工资三倍的数额支付，向其支付经济补偿的年限最高不超过十二年。</div>
+<div class="basis"><b>《劳动合同法实施条例》 第二十七条</b><br>经济补偿的月工资按照劳动者应得工资计算，包括计时工资或者计件工资以及奖金、津贴和补贴等货币性收入。劳动者工作不满12个月的，按照实际工作的月数计算平均工资。</div>
+<h3>实务提示</h3>
+<ul><li>月工资基数按"应得工资"计算，含奖金、津贴、补贴和加班工资，不是基本工资，也不是实发工资。</li><li>2008 年 1 月 1 日前后经济补偿规则不同，涉老案工龄需分段适用当时规定，本工具按现行统一规则计算。</li><li>劳动者非因本人原因被安排到新单位的，原单位工作年限合并计算。</li></ul>
+<h2>2. 李某违法解除赔偿金（2N）</h2>
+<blockquote>单位违法解除或终止劳动合同的二倍赔偿金</blockquote>
+<table class="meta-table"><tbody><tr><td class="mk">时间</td><td>2026-01-31</td></tr><tr><td class="mk">我方</td><td>XX 科技有限公司（用人单位 / 被申请人）</td></tr><tr><td class="mk">对方</td><td>李某（劳动者 / 申请人）</td></tr><tr><td class="mk">项目人</td><td>张三（法务经理）</td></tr><tr><td class="mk">代理人</td><td>李四 律师</td></tr></tbody></table>
+<div class="hero">
+<div class="hero-label">违法解除赔偿金（2N）</div>
+<div class="hero-value">150,000.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">壹拾伍万元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>经济补偿（N）</td><td>75,000.00 元</td></tr><tr><td>赔偿倍数</td><td>2 倍</td></tr><tr><td>计算基数</td><td>15,000.00 元</td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>入职日期</td><td>2021-06-15</td></tr><tr><td>违法解除日期</td><td>2026-01-31</td></tr><tr><td>离职前 12 个月平均工资</td><td>15000 元</td></tr><tr><td>当地上年度职工月平均工资</td><td>12000 元</td></tr><tr><td>劳动者诉求</td><td>要求支付赔偿金（2N，不要求继续履行）</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>工作年限</td><td>55 个月（4 年 7 个月）</td></tr><tr class=""><td>经济补偿月数 N</td><td>5 个月</td></tr><tr class=""><td>经济补偿（N）</td><td>15,000.00 × 5 = 75,000.00 元</td></tr><tr class="emph"><td>赔偿金（2N）</td><td>75,000.00 × 2 = 150,000.00 元</td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">公司未能举证违纪事实，违法解除风险较高，建议优先调解。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《劳动合同法》 第八十七条</b><br>用人单位违反本法规定解除或者终止劳动合同的，应当依照本法第四十七条规定的经济补偿标准的二倍向劳动者支付赔偿金。</div>
+<h3>实务提示</h3>
+<ul><li>赔偿金的计算基数是"经济补偿金"，再乘二倍，即 2N，不是 N+1。</li><li>"N+1"中的 +1 是未提前 30 日书面通知的代通知金，仅适用于《劳动合同法》第40条的无过失性辞退，不适用于违法解除。</li><li>违法解除常见情形：无证据辞退、辞退三期女职工、辞退工伤职工、未走工会程序等。</li></ul>
+<h2>3. 王某加班费追索（近 12 个月）</h2>
+<blockquote>工作日 / 休息日 / 法定节假日三类加班工资计算</blockquote>
+<div class="hero">
+<div class="hero-label">加班费总额</div>
+<div class="hero-value">127,994.40 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">壹拾贰万柒仟玖佰玖拾肆元叁角</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>小时工资基数</td><td>91.95 元</td></tr><tr><td>工作日加班费</td><td>5,517.00 元</td></tr><tr><td>休息日加班费</td><td>2,942.40 元</td></tr><tr><td>法定节假日加班费</td><td>2,206.80 元</td></tr><tr><td>单月合计</td><td>10,666.20 元</td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>月工资（加班费计算基数）</td><td>16000 元</td></tr><tr><td>工作日延时加班小时数</td><td>40 小时</td></tr><tr><td>休息日加班小时数</td><td>16 小时</td></tr><tr><td>休息日是否已安排补休</td><td>否</td></tr><tr><td>法定节假日加班小时数</td><td>8 小时</td></tr><tr><td>追索月数</td><td>12 月</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>日工资</td><td>16,000.00 ÷ 21.75 = 735.63 元<br><span style="color:#98a2b3;font-size:11px">月计薪天数 21.75 天</span></td></tr><tr class=""><td>小时工资</td><td>735.63 ÷ 8 = 91.95 元</td></tr><tr class=""><td>工作日延时加班（150%）</td><td>91.95 × 40 小时 × 150% = 5,517.00 元<br><span style="color:#98a2b3;font-size:11px">《劳动法》第44条第（一）项</span></td></tr><tr class=""><td>休息日加班（200%）</td><td>91.95 × 16 小时 × 200% = 2,942.40 元<br><span style="color:#98a2b3;font-size:11px">《劳动法》第44条第（二）项</span></td></tr><tr class=""><td>法定节假日加班（300%）</td><td>91.95 × 8 小时 × 300% = 2,206.80 元<br><span style="color:#98a2b3;font-size:11px">《劳动法》第44条第（三）项，不可用补休替代</span></td></tr><tr class="emph"><td>单月加班费合计</td><td>10,666.20 元</td></tr><tr class="emph"><td>追索 12 个月</td><td>10,666.20 × 12 = 127,994.40 元</td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">考勤记录由公司掌握，举证不利风险高，建议核实加班审批流程是否完整。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《劳动法》 第四十四条</b><br>有下列情形之一的，用人单位应当按照下列标准支付高于劳动者正常工作时间工资的工资报酬：（一）安排劳动者延长工作时间的，支付不低于工资的百分之一百五十的工资报酬；（二）休息日安排劳动者工作又不能安排补休的，支付不低于工资的百分之二百的工资报酬；（三）法定休假日安排劳动者工作的，支付不低于工资的百分之三百的工资报酬。</div>
+<div class="basis"><b>《关于职工全年月平均工作时间和工资折算问题的通知》</b><br>月计薪天数＝（365天－104天）÷12月＝21.75天。</div>
+<h3>实务提示</h3>
+<ul><li>法定节假日加班费不可用补休替代，必须支付 300%；休息日加班则可以优先安排补休。</li><li>加班费计算基数有约定的从约定，但不得低于当地最低工资标准；无约定的通常按正常工作时间工资确定。</li><li>加班事实的举证责任原则上由劳动者承担，但用人单位保有的考勤记录、工资表应由单位提供，拒不提供可采信劳动者主张。</li></ul>
+<h2>4. A 客户逾期付款违约金</h2>
+<blockquote>按日万分之X 或固定金额计算逾期违约金，并同步校验司法保护上限</blockquote>
+<div class="hero">
+<div class="hero-label">违约金金额</div>
+<div class="hero-value">900,000.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">玖拾万元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>违约金计算口径</td><td>日万分之 5</td></tr><tr><td>占本金比例</td><td>30.00%</td></tr><tr><td>预估调减后金额</td><td>520,000.00 元<br><span style="color:#98a2b3;font-size:11px">以损失 130% 为参考上限</span></td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>违约所涉价款 / 本金</td><td>3000000 元</td></tr><tr><td>违约金约定方式</td><td>按日计算（日万分之X）</td></tr><tr><td>日违约金率</td><td>5 ‱（万分之）</td></tr><tr><td>违约行为发生日</td><td>2025-01-01</td></tr><tr><td>计算截止日</td><td>2026-09-30</td></tr><tr><td>合同约定的违约金上限</td><td>30 %</td></tr><tr><td>实际损失（用于调减审查）</td><td>400000 元</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>违约持续期间</td><td>2025-01-01 至 2026-09-30，共 637 天</td></tr><tr class=""><td>按日计算</td><td>3,000,000.00 × 5‱ × 637 天 = 955,500.00 元</td></tr><tr class=""><td>折合年化</td><td>18.25%</td></tr><tr class="emph"><td>触发合同违约金上限</td><td>3,000,000.00 × 30% = 900,000.00 元<br><span style="color:#98a2b3;font-size:11px">合同约定上限优先于按日累计结果</span></td></tr><tr class="emph"><td>司法调减审查（损失 × 130%）</td><td>400,000.00 × 130% = 520,000.00 元</td></tr><tr class=""><td>审查结论</td><td>⚠ 超过损失 30%，一般可认定为"过分高于造成的损失"<br><span style="color:#98a2b3;font-size:11px">《民法典合同编通则司法解释》第65条</span></td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">合同约定日万分之五，逾期已逾一年，存在被请求调减的风险，建议按损失 130% 预留谈判空间。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《民法典》 第五百八十五条</b><br>当事人可以约定一方违约时应当根据违约情况向对方支付一定数额的违约金，也可以约定因违约产生的损失赔偿额的计算方法。约定的违约金低于造成的损失的，人民法院或者仲裁机构可以根据当事人的请求予以增加；约定的违约金过分高于造成的损失的，人民法院或者仲裁机构可以根据当事人的请求予以适当减少。</div>
+<div class="basis"><b>《民法典合同编通则司法解释》 第六十五条</b><br>约定的违约金超过造成损失的百分之三十的，人民法院一般可以认定为民法典第五百八十五条第二款规定的"过分高于造成的损失"。</div>
+<h3>实务提示</h3>
+<ul><li>违约金调减以"当事人请求"为前提，法院一般不主动调整，被告需明确提出抗辩。</li><li>主张违约金过高的一方应承担初步举证责任，之后由主张违约金的一方举证实际损失。</li><li>日万分之五折合年化 18.25%，在长周期逾期中极易被调减，建议同步约定 30% 总额上限以提高稳定性。</li></ul>
+<h2>5. A 客户财产保全费（法院收取）</h2>
+<blockquote>向法院申请查封、扣押、冻结应交的保全申请费，按实际保全财产数额累进，5,000 元封顶</blockquote>
+<table class="meta-table"><tbody><tr><td class="mk">时间</td><td>2026-09-23</td></tr><tr><td class="mk">我方</td><td>XX 科技有限公司（申请人 / 原告）</td></tr><tr><td class="mk">对方</td><td>A 客户（XX 贸易公司）（被申请人 / 被告）</td></tr><tr><td class="mk">项目人</td><td>张三（法务经理）</td></tr><tr><td class="mk">代理人</td><td>李四 律师</td></tr></tbody></table>
+<div class="hero">
+<div class="hero-label">保全申请费（法院）</div>
+<div class="hero-value">5,000.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">伍仟元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>保全财产数额</td><td>3,000,000.00 元</td></tr><tr><td>分段累计（未封顶）</td><td>15,520.00 元</td></tr><tr><td>是否需要担保</td><td>需要<br><span style="color:#98a2b3;font-size:11px">担保费用另计，见「财产保全担保费」</span></td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>请求保全的财产数额</td><td>3000000 元</td></tr><tr><td>保全类型</td><td>一般财产保全</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>1000 元以下或不涉及财产数额</td><td>1,000.00 定额 = 30.00 元</td></tr><tr class=""><td>1000 元—10 万元部分</td><td>99,000.00 × 1% = 990.00 元</td></tr><tr class=""><td>10 万元以上部分</td><td>2,900,000.00 × 0.50% = 14,500.00 元</td></tr><tr class="emph"><td>分段累计</td><td>15,520.00 元</td></tr><tr class="emph"><td>适用封顶</td><td>超出 5,000.00 元，按 5,000.00 元交纳<br><span style="color:#98a2b3;font-size:11px">《诉讼费用交纳办法》第十四条第（三）项</span></td></tr><tr class=""><td>封顶减负</td><td>15,520.00 − 5,000.00 = 少交 10,520.00 元</td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">300 万标的的保全申请费已触及 5,000 元封顶，此后增加标的额不再多交。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《诉讼费用交纳办法》 第十四条第（三）项</b><br>申请保全措施的，根据实际保全的财产数额按照下列标准交纳：财产数额不超过1000元或者不涉及财产数额的，每件交纳30元；超过1000元至10万元的部分，按照1%交纳；超过10万元的部分，按照0.5%交纳。但是，当事人申请保全措施交纳的费用最多不超过5000元。</div>
+<div class="basis"><b>《民事诉讼法》 第一百零三条</b><br>人民法院对于可能因当事人一方的行为或者其他原因，使判决难以执行或者造成当事人其他损害的案件，根据对方当事人的申请，可以裁定对其财产进行保全、责令其作出一定行为或者禁止其作出一定行为；当事人没有提出申请的，人民法院在必要时也可以裁定采取保全措施。人民法院采取保全措施，可以责令申请人提供担保，申请人不提供担保的，裁定驳回申请。</div>
+<h3>实务提示</h3>
+<ul><li>保全申请费 5,000 元封顶：标的额超过约 89 万元后即封顶，此后增加标的额不再多交申请费。</li><li>申请费由申请人在提出申请时预交，最终由败诉方负担；部分撤诉或保全错误的情形按实际情况分担。</li><li>超标的保全可能被认定为保全错误，需承担赔偿责任，请求保全的数额应与债权额相当。</li><li>保全的实际成本大头往往是担保费而非申请费——担保费请用「财产保全担保费」单独测算。</li></ul>
+<h2>6. A 客户财产保全担保费（保险保函）</h2>
+<blockquote>法院要求提供担保时，购买保全责任保险或银行保函所付的费用（非法院收取）</blockquote>
+<table class="meta-table"><tbody><tr><td class="mk">时间</td><td>2026-09-23</td></tr><tr><td class="mk">我方</td><td>XX 科技有限公司（申请人 / 原告）</td></tr><tr><td class="mk">对方</td><td>A 客户（XX 贸易公司）（被申请人 / 被告）</td></tr><tr><td class="mk">项目人</td><td>张三（法务经理）</td></tr><tr><td class="mk">代理人</td><td>李四 律师</td></tr></tbody></table>
+<div class="hero">
+<div class="hero-label">保全保险费</div>
+<div class="hero-value">2,400.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">贰仟肆佰元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>按费率计算</td><td>2,400.00 元</td></tr><tr><td>需担保的保全财产数额</td><td>3,000,000.00 元</td></tr><tr><td>折算费率</td><td>0.08%<br><span style="color:#98a2b3;font-size:11px">占保全数额</span></td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>需担保的保全财产数额</td><td>3000000 元</td></tr><tr><td>担保方式</td><td>保险公司保全责任保险（最常见）</td></tr><tr><td>保函费率</td><td>0.8 ‰/年</td></tr><tr><td>担保期限</td><td>1 年</td></tr><tr><td>最低保费</td><td>500 元</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>需担保的保全财产数额</td><td>3,000,000.00 元</td></tr><tr class=""><td>保全保险费（按 0.8‰/年 × 1 年）</td><td>3,000,000.00 × 0.8‰ × 1 年 = 2,400.00 元<br><span style="color:#98a2b3;font-size:11px">费率以承保机构实际报价为准</span></td></tr><tr class="emph"><td>折算费率</td><td>占保全数额 0.08%</td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">保费非法院收费，属为实现债权支出的合理费用，部分法院支持由败诉方负担，主张时一并列入诉请。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《民事诉讼法》 第一百零三条</b><br>人民法院采取保全措施，可以责令申请人提供担保，申请人不提供担保的，裁定驳回申请。</div>
+<div class="basis"><b>《最高人民法院关于人民法院办理财产保全案件若干问题的规定》 第五条</b><br>人民法院依照民事诉讼法第一百条、第一百零一条规定责令申请保全人提供财产保全担保的，担保数额不超过请求保全数额的百分之三十；申请保全的财产系争议标的的，担保数额不超过争议标的价值的百分之三十。</div>
+<div class="basis"><b>《最高人民法院关于人民法院办理财产保全案件若干问题的规定》 第八条</b><br>金融监管部门批准设立的金融机构以独立保函形式为财产保全提供担保的，人民法院应当依法准许。</div>
+<h3>实务提示</h3>
+<ul><li>担保费不是法院收取的诉讼费，而是付给保险公司或银行的费用，一般不列入案件受理费。</li><li>担保数额法定上限为请求保全数额的 30%（争议标的为标的价值的 30%），保函按实际担保数额出具即可，不必按全额。</li><li>保全责任保险费属为实现债权支出的合理费用，部分法院支持由败诉方负担，但口径不一，主张时应一并列入诉讼请求。</li><li>诉前保全须在采取措施后 30 日内起诉，逾期解除保全且保费一般不退，投保前先确认起诉时点。</li></ul>
+<h2>7. A 客户公告送达公告费</h2>
+<blockquote>送达、开庭、执行、破产等公告的刊登费用测算（法院不代收，由当事人直接支付媒体）</blockquote>
+<table class="meta-table"><tbody><tr><td class="mk">时间</td><td>2026-09-23</td></tr><tr><td class="mk">项目人</td><td>张三（法务经理）</td></tr><tr><td class="mk">代理人</td><td>李四 律师</td></tr></tbody></table>
+<div class="hero">
+<div class="hero-label">公告费合计</div>
+<div class="hero-value">300.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">叁佰元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>公告类型</td><td>起诉状副本及开庭传票送达公告</td></tr><tr><td>刊登次数</td><td>1 次</td></tr><tr><td>公告生效期间</td><td>30 日<br><span style="color:#98a2b3;font-size:11px">自发出公告之日起算</span></td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>公告类型</td><td>起诉状副本及开庭传票送达公告</td></tr><tr><td>刊登次数</td><td>1 次</td></tr><tr><td>单次刊登单价</td><td>0 元</td></tr><tr><td>其他支出（加急、翻译、邮寄等）</td><td>0 元</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>公告类型</td><td>起诉状副本及开庭传票送达公告<br><span style="color:#98a2b3;font-size:11px">最常见，一般合并刊登一次</span></td></tr><tr class=""><td>单次刊登单价</td><td>300.00 元<br><span style="color:#98a2b3;font-size:11px">未填写单价，采用参考价 300.00 元/次</span></td></tr><tr class="emph"><td>刊登 1 次</td><td>300.00 × 1 = 300.00 元</td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">A 客户注册地无人签收，需公告送达起诉状副本与开庭传票；法院不代收代付，由我方直接支付人民法院报社。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《诉讼费用交纳办法》 第十二条</b><br>诉讼过程中因鉴定、公告、勘验、翻译、评估、拍卖、变卖、仓储、保管、运输、船舶监管等发生的依法应当由当事人负担的费用，人民法院根据谁主张、谁负担的原则，决定由当事人直接支付给有关机构或者单位，人民法院不得代收代付。</div>
+<div class="basis"><b>《民事诉讼法》 第九十五条</b><br>受送达人下落不明，或者用本节规定的其他方式无法送达的，公告送达。自发出公告之日起，经过三十日，即视为送达。公告送达，应当在案卷中记明原因和经过。</div>
+<h3>实务提示</h3>
+<ul><li>公告费不属于案件受理费，法院不代收代付，需由申请方直接支付给人民法院报社或法院公告网。</li><li>公告送达是「最后手段」，启动前须先完成直接送达、邮寄送达、电子送达等，并留存送达不能的凭证。</li><li>公告送达仅适用于受送达人下落不明或其他方式无法送达的情形，滥用公告送达可能被认定为程序违法。</li><li>破产、强制清算类公告费用高且需连续刊登，应在预算中单独列支。</li></ul>
+<h2>8. A 客户抵债资产评估费</h2>
+<blockquote>资产评估、房地产估价、土地估价按评估值累进计费，含市场折扣与最低收费</blockquote>
+<table class="meta-table"><tbody><tr><td class="mk">时间</td><td>2026-09-23</td></tr><tr><td class="mk">我方</td><td>XX 科技有限公司（申请执行人）</td></tr><tr><td class="mk">对方</td><td>A 客户（XX 贸易公司）（被执行人）</td></tr><tr><td class="mk">项目人</td><td>张三（法务经理）</td></tr><tr><td class="mk">代理人</td><td>XX 资产评估有限公司</td></tr></tbody></table>
+<div class="hero">
+<div class="hero-label">资产评估费</div>
+<div class="hero-value">26,700.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">贰万陆仟柒佰元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>标准价（未折扣）</td><td>44,500.00 元</td></tr><tr><td>实际评估费</td><td>26,700.00 元</td></tr><tr><td>占评估值比例</td><td>0.089%</td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>评估类型</td><td>资产评估（股权、设备、无形资产等）</td></tr><tr><td>评估值 / 标的额</td><td>30000000 元</td></tr><tr><td>折扣率</td><td>60 %</td></tr><tr><td>最低收费</td><td>1000 元</td></tr><tr><td>其他支出（现场勘察差旅、加急）</td><td>0 元</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>评估类型</td><td>资产评估<br><span style="color:#98a2b3;font-size:11px">按评估值差额定率累进计费（行业参考标准）</span></td></tr><tr class=""><td>100 万元以下部分</td><td>1,000,000.00 × 0.60% = 6,000.00 元</td></tr><tr class=""><td>100 万—1000 万元部分</td><td>9,000,000.00 × 0.25% = 22,500.00 元</td></tr><tr class=""><td>1000 万—5000 万元部分</td><td>20,000,000.00 × 0.08% = 16,000.00 元</td></tr><tr class="emph"><td>标准价合计</td><td>44,500.00 元</td></tr><tr class=""><td>市场折扣（60%）</td><td>44,500.00 × 60% = 26,700.00 元</td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">评估费由我方先行垫付，最终从拍卖款中优先扣除；已按标准价 6 折测算，签约前再行议价。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《诉讼费用交纳办法》 第十二条</b><br>诉讼过程中因鉴定、公告、勘验、翻译、评估、拍卖、变卖、仓储、保管、运输、船舶监管等发生的依法应当由当事人负担的费用，人民法院根据谁主张、谁负担的原则，决定由当事人直接支付给有关机构或者单位，人民法院不得代收代付。</div>
+<div class="basis"><b>《民事诉讼法》 第二百五十五条</b><br>被执行人未按执行通知履行法律文书确定的义务，人民法院有权查封、扣押、冻结、拍卖、变卖被执行人应当履行义务部分的财产。</div>
+<div class="basis"><b>《最高人民法院关于人民法院民事执行中拍卖、变卖财产的规定》 第四条</b><br>对拟拍卖的财产，人民法院应当委托具有相应资质的评估机构进行价格评估。</div>
+<h3>实务提示</h3>
+<ul><li>评估收费已放开为市场调节价，上表为行业通行的累进参考标准，实际成交价通常为标准的 5—8 折，务必货比三家。</li><li>司法处置中的评估费由申请执行人先行垫付，最终从拍卖款中优先扣除，属于执行费用的一部分。</li><li>对评估报告有异议的，可在收到后 10 日内以书面形式向法院提出，申请复核评估或重新评估。</li><li>评估值直接决定起拍价与清偿顺序，评估过高易流拍、过低损害被执行人利益，均为常见争议点。</li></ul>
+<h2>9. A 客户诉讼成本测算（含保全与其他费用）</h2>
+<blockquote>一次性汇总受理费、保全费与保全担保费、律师费与公告费、公证费、鉴定费、评估费等全部投入</blockquote>
+<div class="hero">
+<div class="hero-label">诉讼前期总投入</div>
+<div class="hero-value">245,200.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">贰拾肆万伍仟贰佰元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>占标的额比例</td><td>8.17%</td></tr><tr><td>其他诉讼费用</td><td>27,000.00 元<br><span style="color:#98a2b3;font-size:11px">公告 + 公证 + 鉴定 + 评估</span></td></tr><tr><td>预期回收金额</td><td>1,800,000.00 元</td></tr><tr><td>净收益</td><td>1,554,800.00 元<br><span style="color:#98a2b3;font-size:11px">投入产出比 634.09%</span></td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>争议标的额</td><td>3000000 元</td></tr><tr><td>律师费</td><td>180000 元</td></tr><tr><td>是否申请财产保全</td><td>是</td></tr><tr><td>保全财产数额</td><td>3000000 元</td></tr><tr><td>保全担保方式</td><td>保险公司保函</td></tr><tr><td>保函费率</td><td>0.8 ‰/年</td></tr><tr><td>保函最低保费</td><td>500 元</td></tr><tr><td>公告费</td><td>300 元</td></tr><tr><td>公证费</td><td>0 元</td></tr><tr><td>鉴定费</td><td>0 元</td></tr><tr><td>评估费</td><td>26700 元</td></tr><tr><td>预估胜诉及执行到位率</td><td>60 %</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>案件受理费</td><td>30,800.00 元<br><span style="color:#98a2b3;font-size:11px">标的额 3,000,000.00 元分段累计</span></td></tr><tr class=""><td>律师费</td><td>180,000.00 元</td></tr><tr class=""><td>保全申请费</td><td>5,000.00 元<br><span style="color:#98a2b3;font-size:11px">5,000 元封顶</span></td></tr><tr class=""><td>保全保险费</td><td>3,000,000.00 × 0.8‰ = 2,400.00 元</td></tr><tr class=""><td>公告费</td><td>300.00 元<br><span style="color:#98a2b3;font-size:11px">由当事人直接支付给法院指定媒体</span></td></tr><tr class=""><td>评估费</td><td>26,700.00 元</td></tr><tr class="emph"><td>其他诉讼费用小计</td><td>27,000.00 元<br><span style="color:#98a2b3;font-size:11px">《诉讼费用交纳办法》第十二条：由当事人直接支付，法院不代收代付</span></td></tr><tr class="emph"><td>前期投入合计</td><td>245,200.00 元</td></tr><tr class=""><td>预期回收</td><td>3,000,000.00 × 60% = 1,800,000.00 元</td></tr><tr class="emph"><td>投入产出比</td><td>净收益 1,554,800.00 元 / 投入 245,200.00 元 = 634.09%<br><span style="color:#98a2b3;font-size:11px">预期为正，具备诉讼经济性</span></td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">按回款率 60% 测算投入产出比，用于决定是否启动诉讼；公告费、评估费已按上述单项结果填入。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《诉讼费用交纳办法》 第十三条</b><br>案件受理费分别按照财产案件与非财产案件的标准分段累计交纳。</div>
+<div class="basis"><b>《诉讼费用交纳办法》 第十六条</b><br>适用简易程序审理的案件减半交纳案件受理费。</div>
+<div class="basis"><b>《诉讼费用交纳办法》 第十五条</b><br>以调解方式结案或者当事人申请撤诉的，减半交纳案件受理费。</div>
+<div class="basis"><b>《诉讼费用交纳办法》 第十二条</b><br>诉讼过程中因鉴定、公告、勘验、翻译、评估、拍卖、变卖、仓储、保管、运输、船舶监管等发生的依法应当由当事人负担的费用，人民法院根据谁主张、谁负担的原则，决定由当事人直接支付给有关机构或者单位，人民法院不得代收代付。</div>
+<h3>实务提示</h3>
+<ul><li>受理费与保全费由败诉方负担，胜诉后可申请退还，实际净支出通常低于测算值。</li><li>公告费、公证费、鉴定费、评估费不属于案件受理费，法院不代收代付，需由当事人直接支付给第三方机构，做预算时必须单独列支——这几项往往是诉讼中最大的现金流出。</li><li>律师费除非有约定或法定情形，否则各自承担，是诉讼中最难回收的成本。</li><li>净收益为负时，调解、债权转让或商业止损往往比硬打到底更划算。</li></ul>
+<h2>10. 年度采购合同印花税</h2>
+<blockquote>按《印花税法》税目税率表计算各类合同应缴印花税</blockquote>
+<div class="hero">
+<div class="hero-label">印花税合计</div>
+<div class="hero-value">30,000.00 <span style="font-size:14px">元</span></div>
+<div class="hero-sub">叁万元整</div>
+</div>
+<table><thead><tr><th>项目</th><th>数值</th></tr></thead><tbody><tr><td>单份应纳税额</td><td>15,000.00 元</td></tr><tr><td>适用税目</td><td>买卖合同<br><span style="color:#98a2b3;font-size:11px">0.3‰</span></td></tr><tr><td>实际税负率</td><td>0.0600%</td></tr></tbody></table>
+<h3>输入参数</h3>
+<table><thead><tr><th>参数</th><th>取值</th></tr></thead><tbody><tr><td>税目</td><td>买卖合同</td></tr><tr><td>计税金额</td><td>50000000 元</td></tr><tr><td>金额是否含增值税</td><td>否</td></tr><tr><td>合同份数（各方均需贴花）</td><td>2 份</td></tr><tr><td>是否享受小规模纳税人减半优惠</td><td>否</td></tr></tbody></table>
+<h3>计算明细</h3>
+<table><thead><tr><th style="width:38%">步骤</th><th>计算过程</th></tr></thead><tbody><tr class=""><td>计税依据</td><td>50,000,000.00 元<br><span style="color:#98a2b3;font-size:11px">按价款确定</span></td></tr><tr class=""><td>适用税率</td><td>0.3‰<br><span style="color:#98a2b3;font-size:11px">买卖合同</span></td></tr><tr class=""><td>单份应纳税额</td><td>50,000,000.00 × 0.3‰ = 15,000.00 元</td></tr><tr class="emph"><td>共 2 份（各方分别纳税）</td><td>15,000.00 × 2 = 30,000.00 元</td></tr></tbody></table>
+<h3>结论备注</h3>
+<p style="font-size:13.5px">合同金额应单独列明增值税额，否则需按全额计征。</p>
+<h3>法律依据</h3>
+<div class="basis"><b>《印花税法》 第五条</b><br>应税合同的计税依据，为合同所列的金额，不包括列明的增值税税款。</div>
+<div class="basis"><b>《印花税法》 第四条</b><br>印花税的税目、税率，依照本法所附《印花税税目税率表》执行。</div>
+<div class="basis"><b>《印花税税目税率表》</b><br>借款合同按借款金额的万分之零点五；买卖合同按价款的万分之三；租赁合同按租金的千分之一；股权转让书据按价款的万分之五；营业账簿按实收资本与资本公积合计金额的万分之二点五。</div>
+<h3>实务提示</h3>
+<ul><li>同一合同由各方当事人分别纳税，实务中双方各缴一次，不要误认为只缴一份。</li><li>合同金额在履约中增加的，应就增加部分补缴印花税；减少的，已缴税款不予退还。</li><li>未列明增值税税款的合同，按合同全额计征，签订合同时务必单独列明税额。</li><li>应税凭证应当在书立时或领受时贴花，境外签订的境内使用合同同样应税。</li></ul>
+<div class="footnote">本报告由法律计算器大全工具自动生成，计算结果基于上述输入参数与现行法律法规的一般性规则，仅供参考，不构成法律意见。个案处理请结合当地最新规定、司法实践口径与专业判断。</div>
+</body>
+</html>

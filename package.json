@@ -1,0 +1,46 @@
+{
+  "name": "legal-calculator",
+  "private": true,
+  "version": "1.5.1",
+  "type": "module",
+  "description": "法律计算器大全 - 诉讼费用 / 利息违约金 / 劳动争议 / 时效期限 / 税务 / 差旅 / 法务成本",
+  "author": "胡皓",
+  "license": "UNLICENSED",
+  "keywords": [
+    "法务",
+    "计算器",
+    "诉讼费",
+    "律师费",
+    "保全费",
+    "经济补偿金",
+    "工伤",
+    "违约金",
+    "印花税",
+    "诉讼时效"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "build:single": "SINGLE=1 vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "calc": "tsx skill/scripts/cli.ts",
+    "version:show": "tsx skill/scripts/version.ts"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "puppeteer-core": "^25.14.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vite-plugin-singlefile": "^2.3.3"
+  }
+}

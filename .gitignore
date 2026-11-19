@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-single/
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+release/archive/
+maint/scratch/
+*.log
